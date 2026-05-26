@@ -1,0 +1,30 @@
+# Our 2026 HackClub Fallout Project
+
+<h2 style="border-bottom: none;">Presented by Tyler Bergsma and Andy He (With much CAD help from Keegan O'Neil)</h2>
+
+
+## Our Project
+
+We decided to make a Nerf Rival shooting mecanum-drive differential-turret robot that has auto aiming built in. This came from a love of robotics from all of us, and also because we all enjoy Nerf battles and guns.  Here's an example of what we wanted the turret to look initially:
+
+
+The next most meaningful part of the robot is the drivetrain, which we decided would use mecanum wheels to give our robot incredibly diverse and versatile movement. Paired with the strong 600RPM motors we plan to use, this should give us a very snappy and responsive bot. 
+Because our robot will be mostly 3d-printed out of PETG, it should be very durable, and the underlying frame (made of aluminum) brings that up even more.
+Our camera system on the robot should also be extremely robust, using 3 cameras in total- 2 for general operator vision and 1 to give an onbaord raspberry pi access to auto-aiming features so that the robot can aim fully autonomously. We plan to send the camera input back to Tyler's Steamdeck OLED for processing and for human controller input. Speaking of sending information back and forth, the robot will use a 2.4Ghz WiFi adapter to connect to a local network and allow it to stream video and control signals back and forth. This gives us extremely low latency and high quality video, as well as the added benefit of being able to possibly be connected to LTE farther down the line and be controlled from anywhere in the world.
+To shoot the Rival rounds, we plan to use two flywheels and shoot them around ~110-120fps in total, giving them some kick for a relatively short spin up time and a small amount of downtime per shot.
+
+Here's a picture of our full 3D model (done in onshape), to show what we mean by all that:
+
+
+And here's a screenshot of the base chasis that we plan to use:
+
+
+## Our Process
+
+A full Bill of materials (BOM) can be found at the resources section at the bottom of our README.
+To start off, first we figured out the major components we would use in our project and what mechanisms or devices we would use to bring our bot to life. This included creating a list of all of the parts we need with links, so that we'd also hopefully be able to find their dimensions and other specs. This took only around and hour with some very intensive googling and queries to Claude.
+The next most important task was to CAD it upp! Our amazing half-team-member Keegan the CAD monster did all of this, creating the whole external structure of the bot including all of the mounts and such in OnShape.
+Once our project gains monetary approval, we plan to 3D-print all of the parts we need from various colors of PETG on Tyler's A1-Mini and Ender-3. We also hope to possibly use the P2S in our robotics team lab to hopefully be able to print some of the larger parts quickly.
+
+## US!
+
