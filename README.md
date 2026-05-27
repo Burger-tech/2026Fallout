@@ -28,3 +28,6 @@ Once our project gains monetary approval, we plan to 3D-print all of the parts w
 
 ## US!
 
+There are three of us working on this project. We are Tyler Bergsma, Keegan O'Neil, and Andy He. Unfortunately, Keegan won't be coming with us to Shenzen, but he was an AMAZING help to our lackluster CAD abilities. We're all from Denver, Colorado, U.S.A., and we all attend Chatfield Senior High, where we are a part of the schools local FIRST robotics team, [The Chargers (Team 9068)](https://Chatfieldrobotics.org). All three of us love robotics and mechanical/programming stuff, which is a huge part of why we chose to do what we did with this event. 
+
+
