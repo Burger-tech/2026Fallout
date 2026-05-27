@@ -1,7 +1,5 @@
 # Our 2026 HackClub Fallout Project
-
-<h2 style="border-bottom: none;">Presented by Tyler Bergsma and Andy He (With much CAD help from Keegan O'Neil)</h2>
-
+Presented by Tyler Bergsma and Andy He (With a TON of CAD help from Keegan O'Neil)
 
 ## Our Project
 
