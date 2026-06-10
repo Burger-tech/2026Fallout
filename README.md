@@ -23,6 +23,9 @@ Here's a picture of our full 3D model (done in onshape), to show what we mean by
 
 <img width="464" height="425" alt="2026-06-09-221433_hyprshot" src="https://github.com/user-attachments/assets/6c8f31fa-4416-4101-ae8a-9937e29af8b8" />
 
+CAD OnShape Link: https://cad.onshape.com/documents/071289950c39e2528783d758/w/1973af73cf652c9bb88bcb7f/e/c3e7d5f0022195b47dc63524
+
+
 And here's a screenshot of the base chasis that we plan to use:
 
 
