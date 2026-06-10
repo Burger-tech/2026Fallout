@@ -1,4 +1,4 @@
-# Our 2026 HackClub Fallout Project
+<img width="502" height="459" alt="image" src="https://github.com/user-attachments/assets/984da77e-c085-44ff-b776-f97d96718bc0" /># Our 2026 HackClub Fallout Project
 Presented by Tyler Bergsma and Andy He (With a TON of CAD help from Keegan O'Neil)
 
 ## Our Project
@@ -15,6 +15,17 @@ Here's a picture of our full 3D model (done in onshape), to show what we mean by
 
 
 And here's a screenshot of the base chasis that we plan to use:
+
+<img width="502" height="459" alt="2026-06-09-221540_hyprshot" src="https://github.com/user-attachments/assets/e3d92b47-39da-4822-844e-5778e08bde54" />
+
+
+<img width="503" height="468" alt="2026-06-09-221526_hyprshot" src="https://github.com/user-attachments/assets/ab93dae1-586f-4a7a-b8dc-3817979870fd" />
+
+<img width="554" height="504" alt="2026-06-09-221514_hyprshot" src="https://github.com/user-attachments/assets/94244615-2d19-4b52-be7b-333327510889" />
+
+<img width="475" height="432" alt="2026-06-09-221500_hyprshot" src="https://github.com/user-attachments/assets/c1007720-a5ed-4f98-b715-6ac5656dedc3" />
+
+<img width="464" height="425" alt="2026-06-09-221433_hyprshot" src="https://github.com/user-attachments/assets/6c8f31fa-4416-4101-ae8a-9937e29af8b8" />
 
 
 ## Our Process
