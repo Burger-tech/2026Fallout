@@ -38,4 +38,14 @@ Once our project gains monetary approval, we plan to 3D-print all of the parts w
 
 There are three of us working on this project. We are Tyler Bergsma, Keegan O'Neil, and Andy He. Unfortunately, Keegan won't be coming with us to Shenzen, but he was an AMAZING help to our lackluster CAD abilities. We're all from Denver, Colorado, U.S.A., and we all attend Chatfield Senior High, where we are a part of the schools local FIRST robotics team, [The Chargers (Team 9068)](https://Chatfieldrobotics.org). All three of us love robotics and mechanical/programming stuff, which is a huge part of why we chose to do what we did with this event. 
 
+## BOM
+
+- Drivetrain
+    - JGB37-520 12V 600 RPM Motors
+    - BTS7960 43A H-Bridge Motor Driver
+    - 60mm Mecanum Wheel Omnidirectional Wheel Smart Robot Car Chassis with TT Motor N20G25
+    - SUNLU High Speed PETG Filament 1.75mm Bundle, Less Stringing PETG 3D Printer Filament, 2kg in Total, 1kg per Spool, 2 Pack, Blue+Red
+    - ZDF Lipo battery 3S 11.1V 5000mAh 6000mah 8000mah 10000mah 12000mah 16000mah 25C 30C 50C For RC Helicopter Quadcopter
+    - GA12 N20 Encoder DC 6V Mini Micro Metal Gear DC Motor Gearwheel High Torque 15 25 50 70 100 150 300 500 1500RPM 7PPR Hall Sensor
+    - 
 
