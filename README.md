@@ -13,11 +13,7 @@ To shoot the Rival rounds, we plan to use two flywheels and shoot them around ~1
 
 Here's a picture of our full 3D model (done in onshape), to show what we mean by all that:
 
-
-And here's a screenshot of the base chasis that we plan to use:
-
 <img width="502" height="459" alt="2026-06-09-221540_hyprshot" src="https://github.com/user-attachments/assets/e3d92b47-39da-4822-844e-5778e08bde54" />
-
 
 <img width="503" height="468" alt="2026-06-09-221526_hyprshot" src="https://github.com/user-attachments/assets/ab93dae1-586f-4a7a-b8dc-3817979870fd" />
 
@@ -26,6 +22,9 @@ And here's a screenshot of the base chasis that we plan to use:
 <img width="475" height="432" alt="2026-06-09-221500_hyprshot" src="https://github.com/user-attachments/assets/c1007720-a5ed-4f98-b715-6ac5656dedc3" />
 
 <img width="464" height="425" alt="2026-06-09-221433_hyprshot" src="https://github.com/user-attachments/assets/6c8f31fa-4416-4101-ae8a-9937e29af8b8" />
+
+And here's a screenshot of the base chasis that we plan to use:
+
 
 
 ## Our Process
