@@ -41,30 +41,52 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 ## BOM
 
 - Drivetrain
-    - JGB37-520 12V 600 RPM Motors | Quantity: 4 | Price: $8.38 | Total: $33.52
-    - BTS7960 43A H-Bridge Motor Driver | Quantity: 1 (4 pack) | Price: $24.89 | Total: $24.89
-    - 60mm Mecanum Wheel Omnidirectional Wheel Smart Robot Car Chassis with TT Motor N20G25 | Quantity: 1 (4 pack) | Price: $9.48 | Total: $9.48
-    - SUNLU High Speed PETG Filament 1.75mm Bundle, Less Stringing PETG 3D Printer Filament, 2kg in Total, 1kg per Spool, 2 Pack, Blue+Red | Quantity: 1 (2kg) | Price: $25.64 | Total: $25.64
-    - ZDF Lipo battery 3S 11.1V 5000mAh 6000mah 8000mah 10000mah 12000mah 16000mah 25C 30C 50C For RC Helicopter Quadcopter | Quantity: 1 | Price: $46.69 | Total: $46.69
-    - GA12 N20 Encoder DC 6V Mini Micro Metal Gear DC Motor Gearwheel High Torque 15 25 50 70 100 150 300 500 1500RPM 7PPR Hall Sensor | Quantity: 3 | Price: $0.99 | Total: $2.79
-    - Emax ECO II Series 2306 1700KV 1900KV 2400KV Brushless Motor for RC FPV Drone Racing Quadcopter Spare Parts RC Parts | Quantity: 1 (2 pack) | Price: $25.46 | Total: $25.46
-    - TB6612 DRV8833 Dual Motor Driver 1A TB6612FNG for Arduino Microcontroller Better than L298N | Quantity: 1 (3 pack) | Price: $0.99 | Total: $0.99
-    - LittleBee 20A 30A BLHeli-S ESC Support DSHOT OneShot For 2-6S FPV Quadcopter | Quantity: 1 (4 pack) | Price: $31.62 | Total: $31.62
+    - JGB37-520 12V 600 RPM Motors
+      | Quantity: 4 | Price: $8.38 | Total: $33.52
+    - BTS7960 43A H-Bridge Motor Driver
+      | Quantity: 1 (4 pack) | Price: $24.89 | Total: $24.89
+    - 60mm Mecanum Wheel Omnidirectional Wheel Smart Robot Car Chassis with TT Motor N20G25
+      | Quantity: 1 (4 pack) | Price: $9.48 | Total: $9.48
+    - SUNLU High Speed PETG Filament 1.75mm Bundle, Less Stringing PETG 3D Printer Filament, 2kg in Total, 1kg per Spool, 2 Pack, Blue+Red
+      | Quantity: 1 (2kg) | Price: $25.64 | Total: $25.64
+    - ZDF Lipo battery 3S 11.1V 5000mAh 6000mah 8000mah 10000mah 12000mah 16000mah 25C 30C 50C For RC Helicopter Quadcopter
+      | Quantity: 1 | Price: $46.69 | Total: $46.69
+    - GA12 N20 Encoder DC 6V Mini Micro Metal Gear DC Motor Gearwheel High Torque 100 RPM 7PPR Hall Sensor
+      | Quantity: 3 | Price: $0.99 | Total: $2.79
+    - Emax ECO II Series 2306 1700KV 1900KV 2400KV Brushless Motor for RC FPV Drone Racing Quadcopter Spare Parts RC Parts
+      | Quantity: 1 (2 pack) | Price: $25.46 | Total: $25.46
+    - TB6612 DRV8833 Dual Motor Driver 1A TB6612FNG for Arduino Microcontroller Better than L298N
+      | Quantity: 1 (3 pack) | Price: $0.99 | Total: $0.99
+    - LittleBee 20A 30A BLHeli-S ESC Support DSHOT OneShot For 2-6S FPV Quadcopter
+      | Quantity: 1 (4 pack) | Price: $31.62 | Total: $31.62
 
 - Electronics
-    - Raspberry Pi Zero 2 WH Kit | Quantity: 1 | Price: $41.99 | Total: $41.99
-    - Wi-Fi USB Dongle Adapter with Gain Antenna – Plug & Play for Linux (Tails, Ubuntu, Debian, Fedora, Mint, Arch) + Windows 11/10/8/7, Android & Mac | 2.4 GHz MT7601U Chipset 150 Mbps | Quantity: 1 | Price: $17.99 | Total: $17.99
-    - Arducam 5MP Camera for Raspberry Pi, 1080P HD OV5647 Camera Module V1 for Raspberry Pi5/4/3/3B+, and Other A/B Series | Quantity: 1 (maybe 2-4) | Price: $6.99 | Total: $6.99
-    - ESP32-CAM WiFi Module 2.4G Antenna ESP32 Serial to WiFi ESP32 CAM Development Board 5V Bluetooth with OV3660 / OV2640 Camera DIY | Quantity: 2 | Price: $6.46 | Total: $12.92
-    - Official Raspberry Pi Pico Board RP2040 Dual-Core 264KB ARM Low-Power Microcomputers High-Performance Cortex-M0+ Processor | Quantity: 3 | Price: $0.99 | Total: $2.79
-    - 1-10pcs PCA9685PW 16 Channel 12-Bit PWM Servo Shield Driver I2C Interface PCA9685 Module For Raspberry Pi | Quantity: 1 | Price: $0.99 | Total: $0.99
-    - 2-8PCS LM2596 Step-down Power Supply Module 3A 3.2V-46V DC to DC Voltage Regulator Module Buck Converter Power Supply Modules | Quantity: 1 (4 pack) | Price: $9.26 | Total: $9.26
-    - AC 220V 250RPM 300RPM 6 Channel 6 wires Capsule Slip Ring CIRCUITSx2A Slipring 12.5/22MM Mini Rotary Conductive Joint Connectors | Quantity: 1 | Price: $0.99 | Total: $0.99
-    - 14AWG XT60 Female Male Plug Battery Connector with Silicone Flexible Wire for RC Airplane Lipo Battery ESC FPV Drone Car Boat | Quantity: 1 (10 pack) | Price: $12.50 | Total: $12.50
-    - 5 Colors Flexible Silicone Wire 16 AWG Gauge Tinned Copper Stranded Wire 300V Cables Electronic Wire Cable | Quantity: 1 (5 colors, 4 meters) | Price: $9.30 | Total: $9.30
-    - 5 Colors Flexible Silicone Wire 22 AWG Gauge Tinned Copper Stranded Wire 300V Cables Electronic Wire Cable | Quantity: 1 (5 colors, 10 meters) | Price: $0.99 | Total: $0.99
+    - Raspberry Pi Zero 2 WH Kit
+      | Quantity: 1 | Price: $41.99 | Total: $41.99
+    - Wi-Fi USB Dongle Adapter with Gain Antenna – Plug & Play for Linux (Tails, Ubuntu, Debian, Fedora, Mint, Arch) + Windows 11/10/8/7, Android & Mac | 2.4 GHz MT7601U Chipset 150 Mbps
+      | Quantity: 1 | Price: $17.99 | Total: $17.99
+    - Arducam 5MP Camera for Raspberry Pi, 1080P HD OV5647 Camera Module V1 for Raspberry Pi5/4/3/3B+, and Other A/B Series
+      | Quantity: 1 (maybe 2-4) | Price: $6.99 | Total: $6.99
+    - ESP32-CAM WiFi Module 2.4G Antenna ESP32 Serial to WiFi ESP32 CAM Development Board 5V Bluetooth with OV3660 / OV2640 Camera DIY
+      | Quantity: 2 | Price: $6.46 | Total: $12.92
+    - Official Raspberry Pi Pico Board RP2040 Dual-Core 264KB ARM Low-Power Microcomputers High-Performance Cortex-M0+ Processor
+      | Quantity: 3 | Price: $0.99 | Total: $2.79
+    - 1-10pcs PCA9685PW 16 Channel 12-Bit PWM Servo Shield Driver I2C Interface PCA9685 Module For Raspberry Pi
+      | Quantity: 1 | Price: $0.99 | Total: $0.99
+    - 2-8PCS LM2596 Step-down Power Supply Module 3A 3.2V-46V DC to DC Voltage Regulator Module Buck Converter Power Supply Modules
+      | Quantity: 1 (4 pack) | Price: $9.26 | Total: $9.26
+    - AC 220V 250RPM 300RPM 6 Channel 6 wires Capsule Slip Ring CIRCUITSx2A Slipring 12.5/22MM Mini Rotary Conductive Joint Connectors
+      | Quantity: 1 | Price: $0.99 | Total: $0.99
+    - 14AWG XT60 Female Male Plug Battery Connector with Silicone Flexible Wire for RC Airplane Lipo Battery ESC FPV Drone Car Boat | Quantity: 1 (10 pack)
+      | Price: $12.50 | Total: $12.50
+    - 5 Colors Flexible Silicone Wire 16 AWG Gauge Tinned Copper Stranded Wire 300V Cables Electronic Wire Cable
+      | Quantity: 1 (5 colors, 4 meters) | Price: $9.30 | Total: $9.30
+    - 5 Colors Flexible Silicone Wire 22 AWG Gauge Tinned Copper Stranded Wire 300V Cables Electronic Wire Cable
+      | Quantity: 1 (5 colors, 10 meters) | Price: $0.99 | Total: $0.99
 
 - Others
-    - 25V DIP Aluminum Electrolytic Capacitor 100UF | Quantity: 1 (40 pack) | Price: $0.99 | Total: $0.99
-    - POKONBOY 300 Rounds Refill Pack Balls Ammo Compatible with Nerf Rival Gun, Foam Bullet Ball Replacement Refill Pack for Blasters Guns | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
+    - 25V DIP Aluminum Electrolytic Capacitor 100UF
+      | Quantity: 1 (40 pack) | Price: $0.99 | Total: $0.99
+    - POKONBOY 300 Rounds Refill Pack Balls Ammo Compatible with Nerf Rival Gun, Foam Bullet Ball Replacement Refill Pack for Blasters Guns
+      | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
 
