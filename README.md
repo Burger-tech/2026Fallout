@@ -1,4 +1,4 @@
-<img width="502" height="459" alt="image" src="https://github.com/user-attachments/assets/984da77e-c085-44ff-b776-f97d96718bc0" /># Our 2026 HackClub Fallout Project
+# Our 2026 HackClub Fallout Project
 Presented by Tyler Bergsma and Andy He (With a TON of CAD help from Keegan O'Neil)
 
 ## Our Project
