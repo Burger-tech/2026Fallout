@@ -93,3 +93,4 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
     - POKONBOY 300 Rounds Refill Pack Balls Ammo Compatible with Nerf Rival Gun, Foam Bullet Ball Replacement Refill Pack for Blasters Guns
 | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
 
+Total Cost: $342.77
