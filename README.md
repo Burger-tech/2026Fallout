@@ -96,4 +96,5 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 Total Cost: $342.77
 
 ## Zine Page
+<img width="1398" height="2000" alt="Turret Bot Zine Page" src="https://github.com/user-attachments/assets/2c8a8a5d-572e-4f1a-9130-6ec03a0dcc1e" />
 
