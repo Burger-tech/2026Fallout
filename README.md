@@ -94,3 +94,6 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
 
 Total Cost: $342.77
+
+## Zine Page
+
