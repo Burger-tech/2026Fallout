@@ -99,4 +99,4 @@ Total Cost: $342.77
 ## Zine Page
 <img width="1398" height="2000" alt="Turret Bot Zine Page (1)" src="https://github.com/user-attachments/assets/25b177a6-ee11-444b-aaf1-6ed932c90da0" />
 
-
+## How to Replicate and Understanding
