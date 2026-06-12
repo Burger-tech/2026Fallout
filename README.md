@@ -13,15 +13,16 @@ To shoot the Rival rounds, we plan to use two flywheels and shoot them around ~1
 
 Here's a picture of our full 3D model (done in onshape), to show what we mean by all that:
 
-<img width="502" height="459" alt="2026-06-09-221540_hyprshot" src="https://github.com/user-attachments/assets/e3d92b47-39da-4822-844e-5778e08bde54" />
+<img width="541" height="456" alt="2026-06-11-182723_hyprshot" src="https://github.com/user-attachments/assets/28713186-fecb-4cb5-9bd6-7f1a4f50342e" />
 
-<img width="503" height="468" alt="2026-06-09-221526_hyprshot" src="https://github.com/user-attachments/assets/ab93dae1-586f-4a7a-b8dc-3817979870fd" />
+<img width="365" height="350" alt="2026-06-11-182755_hyprshot" src="https://github.com/user-attachments/assets/49f69af7-341d-4e7a-b659-cfcaeb368cee" />
 
-<img width="554" height="504" alt="2026-06-09-221514_hyprshot" src="https://github.com/user-attachments/assets/94244615-2d19-4b52-be7b-333327510889" />
+<img width="528" height="533" alt="2026-06-11-182808_hyprshot" src="https://github.com/user-attachments/assets/f977d9cc-5e9e-4d4e-815c-54e649242b34" />
 
-<img width="475" height="432" alt="2026-06-09-221500_hyprshot" src="https://github.com/user-attachments/assets/c1007720-a5ed-4f98-b715-6ac5656dedc3" />
+<img width="596" height="627" alt="2026-06-11-182837_hyprshot" src="https://github.com/user-attachments/assets/cdad7a4c-fa61-43b0-8e8c-4768b91e0c00" />
 
-<img width="464" height="425" alt="2026-06-09-221433_hyprshot" src="https://github.com/user-attachments/assets/6c8f31fa-4416-4101-ae8a-9937e29af8b8" />
+<img width="486" height="500" alt="2026-06-11-182850_hyprshot" src="https://github.com/user-attachments/assets/9a35b04f-258e-4728-8aa8-f20aecf55baf" />
+
 
 CAD OnShape Link: https://cad.onshape.com/documents/071289950c39e2528783d758/w/1973af73cf652c9bb88bcb7f/e/c3e7d5f0022195b47dc63524
 
