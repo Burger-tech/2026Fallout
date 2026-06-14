@@ -93,8 +93,16 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 | Quantity: 1 (40 pack) | Price: $0.99 | Total: $0.99
     - POKONBOY 300 Rounds Refill Pack Balls Ammo Compatible with Nerf Rival Gun, Foam Bullet Ball Replacement Refill Pack for Blasters Guns
 | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
+    - 0.5" Hex Shaft Collars _ need editing- KEEGAN WORKING ON IT - made mistakes
+| Quantity: 5 | Price: $2.99 | Total: $14.95
+    - 0.500" Hex ID x 1.125" OD x 0.313" WD (Flanged Bearing) (WCP-0783)
+| Quantity: 6 | Price: $2.99 | Total: $17.95
+    - NEED TO WAIT ON CAMERA ANGLE, NEED KEEGAN INPUT TO KNOW EXACT SPECIFICATIONS
+    - OV2640 66/120/160 degrees 850nm night version 940nm camera module 21MM 40MM 63MM 78MM 200MM 24PIN 0.5MM spacing
+| Quantity: 1 | Price: $0.99 | Total: $0.99
+    - bearings - NEED KEEGANS INPUT
 
-Total Cost: $342.77
+Total Cost: $378.63
 
 ## Zine Page
 <img width="1398" height="2000" alt="Turret Bot Zine Page (1)" src="https://github.com/user-attachments/assets/25b177a6-ee11-444b-aaf1-6ed932c90da0" />
