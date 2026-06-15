@@ -93,16 +93,20 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 | Quantity: 1 (40 pack) | Price: $0.99 | Total: $0.99
     - POKONBOY 300 Rounds Refill Pack Balls Ammo Compatible with Nerf Rival Gun, Foam Bullet Ball Replacement Refill Pack for Blasters Guns
 | Quantity: 1 (300 count) | Price: $24.99 | Total: $24.99
-    - 0.5" Hex Shaft Collars _ need editing- KEEGAN WORKING ON IT - made mistakes
+    - 0.5" Hex Shaft Collars
 | Quantity: 5 | Price: $2.99 | Total: $14.95
     - 0.500" Hex ID x 1.125" OD x 0.313" WD (Flanged Bearing) (WCP-0783)
-| Quantity: 6 | Price: $2.99 | Total: $17.95
-    - NEED TO WAIT ON CAMERA ANGLE, NEED KEEGAN INPUT TO KNOW EXACT SPECIFICATIONS
-    - OV2640 66/120/160 degrees 850nm night version 940nm camera module 21MM 40MM 63MM 78MM 200MM 24PIN 0.5MM spacing
+| Quantity: 4 | Price: $2.99 | Total: $11.95
+    - OV2640 160 degrees 850nm night version 940nm camera module 21MM 24PIN 0.5MM spacing
 | Quantity: 1 | Price: $0.99 | Total: $0.99
-    - bearings - NEED KEEGANS INPUT
+    - 10/50pcs Small Bearings 2mm 3mm 4mm 5mm 6mm 7mm 8mm 9mm 10mm Bore 3x7x3 5x10x4 5x11x4 8x22x7 10x15x4 mm Miniature Bearing
+| Quantity: 20 (10 8x12x3.5mm and 10 15x21x4mm| Price: $0.99 | Total: $0.99
+5Pcs 6903RS 12x28x8mm Motor Grade Cover Sealed Deep Groove Ball Bearing RS 52100 Chrome Steel ABEC-7
+| Quantity: 1 (5 pack 6903RS 17x30x7) | Price: $0.99 | Total: $0.99
+1/2in Rounded Hex Shafts
+| Quantity: 1 | Price: $10.50 | Total: $10.50
 
-Total Cost: $378.63
+Total Cost: $383.15
 
 ## Zine Page
 <img width="1398" height="2000" alt="Turret Bot Zine Page (1)" src="https://github.com/user-attachments/assets/25b177a6-ee11-444b-aaf1-6ed932c90da0" />
