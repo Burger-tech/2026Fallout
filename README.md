@@ -105,8 +105,9 @@ There are three of us working on this project. We are Tyler Bergsma, Keegan O'Ne
 | Quantity: 1 (5 pack 6903RS 17x30x7) | Price: $0.99 | Total: $0.99
     - 1/2in Rounded Hex Shafts
 | Quantity: 1 | Price: $10.50 | Total: $10.50
-    - Hex Couplars - Waiting on keegans input - not specific enough on the item
-| Quantity: 1 (4 pack)2 | Price: $0.82 | Total: $0.82
+    - 4Pcs 6mm Coupling
+| Quantity: 1 (4 pack) | Price: $0.82 | Total: $0.82
+
 Total Cost: $382.41
 
 ## Zine Page
