@@ -3,7 +3,11 @@ Presented by Tyler Bergsma and Andy He (With a TON of CAD help from Keegan O'Nei
 
 ## Our Project
 
-We decided to make a Nerf Rival shooting mecanum-drive differential-turret robot that has auto aiming built in. This came from a love of robotics from all of us, and also because we all enjoy Nerf battles and guns.  Here's an example of what we wanted the turret to look initially:
+We decided to make a Nerf Rival shooting mecanum-drive differential-turret robot that has auto aiming built in. This came from a love of robotics from all of us, and also because we all enjoy Nerf battles and guns.  Here's an example of what we wanted the turret to look initially: 
+
+<img width="1170" height="2532" alt="whatwewanted" src="https://github.com/user-attachments/assets/ba9f89c2-12f9-4298-b629-5825bec561df" />
+
+This is what our original thought concept was considering the features we wanted for our bot.
 
 
 The next most meaningful part of the robot is the drivetrain, which we decided would use mecanum wheels to give our robot incredibly diverse and versatile movement. Paired with the strong 600RPM motors we plan to use, this should give us a very snappy and responsive bot. 
@@ -29,7 +33,7 @@ CAD OnShape Link: https://cad.onshape.com/documents/071289950c39e2528783d758/w/1
 
 And here's a screenshot of the base chasis that we plan to use:
 
-
+<img width="1112" height="940" alt="base chasis" src="https://github.com/user-attachments/assets/5f27916c-3c1b-4dcc-b199-ee658e77b5f5" />
 
 ## Our Process
 
