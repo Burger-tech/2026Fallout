@@ -119,4 +119,18 @@ Total Cost: $382.41
 
 ## How to Replicate and Understanding
 
-Firstly . . .
+Ratios:
+Base Differential gears: 5:1or 125:25
+Internal to external: 102:27 or 34/9:1
+Bevel gears: 1:1 or 20:20
+Angle control: 100:16 or 6.25:1
+
+coaxial/differential explanation:
+The differential turret consists of two base gears, with one gear having only external teeth, and the other having both external and internal teeth. A separate gear is mounted to the gear that only has external teeth, but it is driven by the gear that has both internal and external gears. The gear that gets driven internally directly drives a bevel gear. This bevel gear drives another bevel gear that is mounted to a shaft that is mounted on the base gear with only external teeth. Also mounted on that shaft is two normal spur gears that end up driving the turret that is also mounted on the base gear with only external teeth. 
+
+Turret:
+The turret consists of a camera for object detection and auto aiming with the coaxial gear system, two flywheels that are directly driven by brushless motors, an agitation motor and wheel to prevent jams, and a hopper to hold bullets. The bullets that the hopper holds feed into a square funnel that also leads into a rectangular funnel shouldn’t jam due to an agitation motor. The rectangular funnel feeds into a single stream that is prevented from getting jams due to the flywheel also acting as an agitation wheel. These bullets eventually feed through into the flywheels, which have 0.175 inches of compression on the bullets, to eventually get shot at a specific target.
+
+How to replicate:
+For the overall robot, you will want to determine all the electronic and mechanical components you will be using, then determine where and how you want them mounted. For the drive base, you will want to figure out what kind of driving system you want to use (mecanum, swerve, or something else), then create a master sketch of the side view and the top view of how you want the overall layout to look. The group decided that our shooting mechanism would be a coaxial turret, and that we would be using mecanum wheels to drive the robot so we could get omnidirectional mobility. Once you have your overall design picked and drawn out, you should start out with the drivetrain, which you will design around the parts list and the master sketch. For your drivetrain, you will need to mount out where all the electronics and maybe some mechanical things will be located/mounted and how they will be mounted so you need to create space for that. This includes things such as your motors, the overall brain potentially, wire management, battery, motor controllers, buck converters, cameras, wheels, and much more. We personally decided to mount all electronics other than 3 motors, pi cam, and the pi zero, which we mounted to the turret itself. The pi zero and camera serve as components directly linked object detection cam and brain and the motors control the flywheels. Once you have the method for mounting everything, and you have the overall design finished for the drivetrain, you can move on to the shooter. As previously stated, we went with a coaxial turret. To start out, decide what ratios and tooth counts you want for the gears driving the turret angle and position. We used a 5:1 for each base gear. You will also want to determine how you will feed the shooter itself. We went with a funnel indexing system that had 2 points of agitation to prevent jamming. You will also need to keep in mind the assembly. I would have run into a bunch of assembly errors if I hadn’t triple checked my work, so be careful about that. Finally, once you have the drivetrain and turret mechanism figured out, you can add tolerances and put it all together into an assembly to make sure everything packages without any problems.
+
