@@ -5,7 +5,7 @@ Presented by Tyler Bergsma and Andy He (With a TON of CAD help from Keegan O'Nei
 
 We decided to make a Nerf Rival shooting mecanum-drive differential-turret robot that has auto aiming built in. This came from a love of robotics from all of us, and also because we all enjoy Nerf battles and guns.  Here's an example of what we wanted the turret to look initially: 
 
-<img width="600" height="1600" alt="whatwewanted" src="https://github.com/user-attachments/assets/ba9f89c2-12f9-4298-b629-5825bec561df" />
+<img width="550" height="1200" alt="whatwewanted" src="https://github.com/user-attachments/assets/ba9f89c2-12f9-4298-b629-5825bec561df" />
 
 This is what our original thought concept was considering the features we wanted for our bot.
 
